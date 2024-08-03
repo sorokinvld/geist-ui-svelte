@@ -113,7 +113,7 @@
 						class="size-6 rounded-full border border-gray-0 dark:border-gray-900"
 					/>
 					<Text type="h5" noWrap
-						>geist-ui-svelte <Text class="!hidden sm:!inline-block" type="small"
+						>АО Портал <Text class="!hidden sm:!inline-block" type="small"
 							>v{process.env.PACKAGE_VERSION}</Text
 						></Text
 					>
