@@ -11,7 +11,7 @@
 </svelte:head>
 
 <Hero exclusionHeight={79}>
-	<Text type="h1" align="center">Облачный персональный ИИ-компьютер и диалоговая ОС на основе автономных агентов</Text>
+	<Text type="h3" align="center">Облачный персональный ИИ-компьютер и диалоговая ОС на основе автономных агентов</Text>
 	<Spacer h={20} />
 	<div class="flex place-items-center">
 		<Button href="/guide" color="secondary-light">Получить свой экземпляр</Button>
