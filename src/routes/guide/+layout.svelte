@@ -29,7 +29,7 @@
 	];
 
 	const GITHUB_DOCS_DIRECTORY =
-		"https://github.com/ieedan/geist-ui-svelte/blob/main/src/routes/guide/";
+		"https://www.prtl.cc";
 
 	$: currentDoc = getCurrentDoc(routes, $page.url.href.replace($page.url.origin, ""));
 
