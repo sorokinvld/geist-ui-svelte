@@ -135,7 +135,7 @@
 					<Text color="secondary">K</Text>
 				</div>
 				<Button
-					href="https://github.com/ieedan/geist-ui-svelte"
+					href="https://www.prtl.cc"
 					target="_blank"
 					square
 					size="md"
@@ -158,7 +158,7 @@
 		<div
 			class="flex w-full place-items-center justify-between px-6 py-4 border-b-transparent border-b"
 		>
-			<a href="/"><Text type="h5">geist-ui-svelte</Text></a>
+			<a href="/"><Text type="h5">ОС Портал</Text></a>
 			<Button color="abort" on:click={() => (menuVisible = false)}>
 				<MenuIcon size={18} />
 			</Button>
@@ -193,7 +193,7 @@
 		</a>
 		<div class="flex place-items-center py-2 gap-2 px-6">
 			<Button
-				href="https://github.com/ieedan/geist-ui-svelte"
+				href="https://www.prtl.cc"
 				target="_blank"
 				square
 				size="md"
